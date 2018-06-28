@@ -1,3 +1,4 @@
+# blog-schedule-062518
 # 062518 Blogs
 
 ## Thursday July 5th
@@ -28,6 +29,7 @@ Giles Bonner
 ## Wednesday, July 25th
 Jared Mills
 Ena Anicama
+Shumei Huang
 
 ## Thursday July 26th
 Daniel Ran
@@ -57,6 +59,7 @@ Giles Bonner
 ## Wednesday, August 15th
 Jared Mills
 Ena Anicama
+Shumei Huang
 
 ## Wendesday, August 22nd
 Daniel Ran
@@ -86,6 +89,7 @@ Giles Bonner
 ## Thursday, September 6th
 Jared Mills
 Ena Anicama
+Shumei Huang
 
 ## Wednesday September 12th
 Daniel Ran
@@ -115,3 +119,4 @@ Giles Bonner
 ## Thursday, September 27th
 Jared Mills
 Ena Anicama
+Shumei Huang

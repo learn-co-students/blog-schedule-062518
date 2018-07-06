@@ -13,13 +13,13 @@ Anthony Turetsky
 
 ## Thursday, July 12th
 Yung Leung
-Lillian Zhang
 Maneepailin Sriuthenchai
 
 ## Wednesday, July 18th
 Kai Han
 Jon Ahn
 Sean Conrad
+Lillian Zhang
 
 ## Thursday, July 19th
 Jack Yeung

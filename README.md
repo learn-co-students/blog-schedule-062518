@@ -36,12 +36,12 @@ Daniel Ran
 Matt Maher
 Claudia Maniscalchi
 
-## Wednesday, July 31st
+## Wednesday, August1st
 Ann Kim
 Luke Conley
 Anthony Turetsky
 
-## Thursday, August 1st
+## Thursday, August 2nd
 Yung Leung
 Lillian Zhang
 Maneepailin Sriuthenchai
@@ -56,7 +56,7 @@ Jack Yeung
 Ryan Namgung
 Giles Bonner
 
-## Wednesday, August 15th
+## Thursday, August 16th
 Jared Mills
 Ena Anicama
 Shumei Huang

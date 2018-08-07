@@ -1,5 +1,4 @@
-# blog-schedule-062518
-# 062518 Blogs
+# Blog Schedule Nyc-Mhtn-Web-062518
 
 ## Thursday July 5th
 * Daniel Ran

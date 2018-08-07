@@ -49,6 +49,7 @@
 * Kai Han
 * Jon Ahn
 * Sean Conrad
+* Alan Golman
 
 ## Thursday, August 9th
 * Jack Yeung
@@ -58,7 +59,7 @@
 ## Thursday, August 16th
 ### Holiday
 
-## Wendesday, August 22nd
+## Wednesday, August 22nd
 * Daniel Ran
 * Matt Maher
 * Claudia Maniscalchi
@@ -79,6 +80,7 @@
 * Kai Han
 * Jon Ahn
 * Sean Conrad
+* Alan Golman
 
 ## Wednesday, September 5th
 * Jack Yeung
@@ -109,6 +111,7 @@
 * Kai Han
 * Jon Ahn
 * Sean Conrad
+* Alan Golman
 
 ## Wednesday, September 26th
 * Jack Yeung

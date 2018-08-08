@@ -48,13 +48,13 @@
 ## Wednesday, August 8th
 * Kai Han
 * Jon Ahn
-* Sean Conrad
 * Alan Golman
 
 ## Thursday, August 9th
 * Jack Yeung
 * Ryan Namgung
 * Giles Bonner
+* Sean Conrad
 
 ## Thursday, August 16th
 ### Holiday

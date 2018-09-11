@@ -93,7 +93,6 @@
 * Shumei Huang
 
 ## Wednesday September 12th
-* Daniel Ran
 * Matt Maher
 * Claudia Maniscalchi
 
@@ -104,7 +103,7 @@
 
 ## Wednesday, September 19th
 * Yung Leung
-* Lillian Zhang
+* Daniel Rein
 * Maneepailin Sriuthenchai
 
 ## Thursday, September 20th

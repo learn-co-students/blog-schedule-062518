@@ -92,12 +92,9 @@
 * Ena Anicama
 * Shumei Huang
 
-## Wednesday September 12th
-* Matt Maher
-* Claudia Maniscalchi
 
 ## Thursday, September 13th
-* Ann Kim
+* Matt Maher
 * Luke Conley
 * Anthony Turetsky
 
@@ -105,6 +102,7 @@
 * Yung Leung
 * Daniel Rein
 * Maneepailin Sriuthenchai
+* Claudia Maniscalchi
 
 ## Thursday, September 20th
 * Kai Han

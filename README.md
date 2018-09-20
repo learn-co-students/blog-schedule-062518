@@ -105,17 +105,14 @@
 * Claudia Maniscalchi
 
 ## Thursday, September 20th
-* Kai Han
 * Jon Ahn
-* Sean Conrad
 * Alan Golman
 
 ## Wednesday, September 26th
-* Jack Yeung
+* Sean Conrad
 * Ryan Namgung
 * Giles Bonner
 
 ## Thursday, September 27th
 * Jared Mills
-* Ena Anicama
 * Shumei Huang
